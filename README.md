@@ -5,9 +5,9 @@
 
  Synopsis : 
   Project is intended to Predict Stock Price of  Company  based on one of the following methods,
-    - Technical Analysis using Chart Pattern Technical Indicators.
-    - Analyzing past stock prices and predicting by Time series models.
-    - Analyzing news/Social media Text messages to do sentiment analysis using NLP models.
+    1. Technical Analysis using Chart Pattern Technical Indicators.
+    2. Analyzing past stock prices and predicting by Time series models.
+    3. Analyzing news/Social media Text messages to do sentiment analysis using NLP models.
 
    Project Members  
       - Sathiyanarayanan K : k.sathiya@gmail.com
