@@ -14,8 +14,9 @@
     ```
 
    Project Members 
-   
+   ```
       - Sathiyanarayanan K : k.sathiya@gmail.com
       - Mathew John : matt_john07@outlook.com
       - Srishty Hazra : sristy.hazra96@gmail.com
       - Karthick GS : gsk.karthic@gmail.com
+ ```
