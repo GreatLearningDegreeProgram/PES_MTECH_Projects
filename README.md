@@ -11,10 +11,10 @@
     2. Analyzing past stock prices and predicting by Time series models.
     
     3. Analyzing news/Social media Text messages to do sentiment analysis using NLP models.
-    ```
+  ```
 
    Project Members 
-   ```
+ ```
       - Sathiyanarayanan K : k.sathiya@gmail.com
       - Mathew John : matt_john07@outlook.com
       - Srishty Hazra : sristy.hazra96@gmail.com
