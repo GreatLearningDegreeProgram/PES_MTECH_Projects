@@ -1,7 +1,7 @@
 # PES_MTECH_Projects
 ### M.Tech. Students Deployed Projects
 
-1. Project 1: [Stock Price Prediction based on Market Sentiments and News Highlights using TSF and ML Project](http://174.129.180.85:8501)
+1. Project : [Stock Price Prediction based on Market Sentiments and News Highlights using TSF and ML Project](http://174.129.180.85:8501)
 
  Synopsis :
   ```
@@ -18,4 +18,18 @@
       - Srishty Hazra : sristy.hazra96@gmail.com
       - Karthick GS : gsk.karthic@gmail.com
  ```
-2. Project 2: [toadd]()
+2. Project : [Mood Based Recommendation Engine](http://44.192.85.29:8501/)
+
+Synopsis :
+  ```
+  Mood Based  Music Recommendation System leveraging Raga-Rasa Association in Indian Classical Music
+  ```
+
+   Project Members 
+ ```
+      - Harsha MN
+      - Mohan Rao B C
+      - KK Gayathri Ramesh 
+      - Sushmitha M
+      - Vinayak Arkachaari 
+ ```
