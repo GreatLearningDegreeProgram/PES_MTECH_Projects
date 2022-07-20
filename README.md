@@ -1,7 +1,7 @@
 # PES_MTECH_Projects
 ### M.Tech. Students Deployed Projects
 
-1. Project 1: [Stock Price Prediction based on Market Sentiments and News Highlights using TSF and ML Project](https://kktestdemo.herokuapp.com/)
+1. Project 1: [Stock Price Prediction based on Market Sentiments and News Highlights using TSF and ML Project](http://174.129.180.85:8501)
 
  Synopsis :
   ```
