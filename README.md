@@ -33,3 +33,15 @@ Synopsis :
       - Sushmitha M
       - Vinayak Arkachaari 
  ```
+ 
+ 3. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
+ ```
+ Local tourism recommendation 
+ ```
+ 
+ 4. Project : [FARMREMEDY ] (https://glcrop.herokuapp.com/)
+ 
+ ```
+ FARMREMEDY : Get Informed Decisions About Your Farming Strategy.
+ ```
+
