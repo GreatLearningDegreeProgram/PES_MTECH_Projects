@@ -39,7 +39,7 @@ Synopsis :
  Local tourism recommendation 
  ```
  
- 4. Project : [FARMREMEDY ] (https://glcrop.herokuapp.com/)
+ 4. Project : [ FARMREMEDY ](https://glcrop.herokuapp.com/)
  
  ```
  FARMREMEDY : Get Informed Decisions About Your Farming Strategy.
