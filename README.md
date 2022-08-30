@@ -34,14 +34,25 @@ Synopsis :
       - Vinayak Arkachaari 
  ```
  
+ 
+ 3. Project : [ FARMREMEDY ](https://glcrop.herokuapp.com/)
+ 
+ Synopsis :
+  ```
+   FARMREMEDY is an Automated ML-Based Crop Selection and Crop Damage Classification Model
+   
+    - The Project is designed to help farmers in better ways of farming.
+    - Suggest the best suitable crop based on his land for the farmers by considering 33 states and 645 districts in India.
+    - Classification of crop damages helps the farmers identify the condition of the crop based on which the farmers can control the excessive usage of pesticides and fertilizers on the crop.
+  ```
+  
+  Project Members 
+ ```
+      -  Thatha Sai Nischitha : nischitha.thatha@gmail.com     
+ ```
+ 
  3. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
  ```
  Local tourism recommendation 
- ```
- 
- 4. Project : [ FARMREMEDY ](https://glcrop.herokuapp.com/)
- 
- ```
- FARMREMEDY : Get Informed Decisions About Your Farming Strategy.
  ```
 
