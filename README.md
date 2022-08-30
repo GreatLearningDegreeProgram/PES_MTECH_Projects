@@ -53,7 +53,7 @@ Synopsis :
  
  4. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
  ```
- Local tourism recommendation 
+ Karnataka state tourism recommendation model
  ```
   Project Members 
  ```
