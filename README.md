@@ -35,7 +35,7 @@ Synopsis :
  ```
  
  
- 3. Project : [ FARMREMEDY ](https://glcrop.herokuapp.com/)
+ 3. Project : [ FARMREMEDY: Get Informed Decisions About Your Farming Strategy ](https://glcrop.herokuapp.com/)
  
  Synopsis :
   ```
@@ -55,4 +55,8 @@ Synopsis :
  ```
  Local tourism recommendation 
  ```
-
+  Project Members 
+ ```
+   - BhanuPrakash C. : bhanuprakash0509@gmail.com
+   - Saurabh Sharma    
+ ```
