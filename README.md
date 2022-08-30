@@ -51,7 +51,7 @@ Synopsis :
       -  Thatha Sai Nischitha : nischitha.thatha@gmail.com     
  ```
  
- 3. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
+ 4. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
  ```
  Local tourism recommendation 
  ```
