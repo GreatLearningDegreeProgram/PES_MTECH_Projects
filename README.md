@@ -55,8 +55,8 @@ Synopsis :
  ```
  Karnataka state tourism recommendation system leveraging
   - Collaborative Filtering
-		- Content-Based Filtering
-		- Hybrid User-Item Based  Filtering
+  - Content-Based Filtering
+  - Hybrid User-Item Based  Filtering
  
  ```
   Project Members 
