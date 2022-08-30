@@ -51,9 +51,13 @@ Synopsis :
       -  Thatha Sai Nischitha : nischitha.thatha@gmail.com     
  ```
  
- 4. Project : [ Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
+ 4. Project : [Karnataka : Tourism Recommendation System ](https://tourismrecommend.herokuapp.com/)
  ```
- Karnataka state tourism recommendation model
+ Karnataka state tourism recommendation system leveraging
+  - Collaborative Filtering
+		- Content-Based Filtering
+		- Hybrid User-Item Based  Filtering
+ 
  ```
   Project Members 
  ```
