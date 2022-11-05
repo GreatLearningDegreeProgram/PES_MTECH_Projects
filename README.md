@@ -1,13 +1,13 @@
 # PES_MTECH_Projects
 ### M.Tech. Students Deployed Projects
 
-1. Project : [Stock Analysis based on Market Sentiments and News Highlights using TSF and ML Project](http://174.129.180.85:8501)
+1. Project : [Stock Analysis based on Market Sentiments and News Highlights using time series and machine learning Techniques](http://174.129.180.85:8501)
 
  Synopsis :
   ```
-  Project is intended to Predict Stock Price of Companies based on one of the following methods,
+  Project is intended to analyse Stock Price of listed Companies based on one of the following methods,
     1. Technical Analysis using Chart Pattern Technical Indicators.
-    2. Analyzing past stock prices and predicting by Time series models.  
+    2. Analyzing stock prices  by Time series models.  
     3. Analyzing news/Social media Text messages to do sentiment analysis using NLP models.
   ```
 
