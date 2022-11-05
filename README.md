@@ -22,7 +22,7 @@
 
 Synopsis :
   ```
-  Mood Based  Music Recommendation System leveraging Raga-Rasa Association in Indian Classical Music
+  Mood Based  Music Recommendation System prototype leveraging Raga-Rasa Association in Indian Classical Music
   ```
 
    Project Members 
