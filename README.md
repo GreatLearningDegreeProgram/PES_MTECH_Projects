@@ -35,7 +35,7 @@ Synopsis :
  ```
  
  
- 3. Project : [ FARMREMEDY: Get Informed Decisions About Your Farming Strategy ](https://glcrop.herokuapp.com/)
+ 3. Project : [ FARMREMEDY: Get Informed Decisions About Your Farming Strategy ](http://3.84.124.164:8000/)
  
  Synopsis :
   ```
