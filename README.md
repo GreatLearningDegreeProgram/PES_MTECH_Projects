@@ -1,7 +1,7 @@
 # PES_MTECH_Projects
 ### M.Tech. Students Deployed Projects
 
-1. Project : [Stock Analysis based on Market Sentiments and News Highlights using time series and machine learning Techniques](http://3.82.211.114:8501)
+1. Project : [Stock Analysis based on Market Sentiments and News Highlights using time series and machine learning Techniques](http://3.82.211.114:8502)
 
  Synopsis :
   ```
